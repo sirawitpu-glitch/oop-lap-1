@@ -1,0 +1,7 @@
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\obj\Debug\Hello word ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\obj\Debug\Hello word ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\bin\Debug\Hello word ConsoleApp1.exe.config
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\bin\Debug\Hello word ConsoleApp1.exe
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\bin\Debug\Hello word ConsoleApp1.pdb
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\obj\Debug\Hello word ConsoleApp1.exe
+C:\Users\NK 2316\Documents\GitHub\oop-lap-1\Hello word ConsoleApp1\Hello word ConsoleApp1\obj\Debug\Hello word ConsoleApp1.pdb
